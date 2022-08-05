@@ -1,15 +1,147 @@
-07/06/2022 02:12:35 PM ***************Verifying Login testing*******************
-07/06/2022 02:12:36 PM *****************Test_001_Login*******************
-07/06/2022 02:12:36 PM *****************Verifing Home Page Title*****************
-07/06/2022 02:12:40 PM ***************test login page passed*******************
-07/06/2022 02:12:43 PM ****************Home Page title test is passed*******************
-07/18/2022 12:03:27 PM *****************Test_001_Login*******************
-07/18/2022 12:03:27 PM *****************Verifing Home Page Title*****************
-07/18/2022 12:03:38 PM ****************Home Page title test is passed*******************
-07/18/2022 12:03:40 PM ***************Verifying Login testing*******************
-07/18/2022 12:04:01 PM ***************test login page passed*******************
-07/22/2022 02:46:35 PM *****************Test_001_Login*******************
-07/22/2022 02:46:35 PM *****************Verifing Home Page Title*****************
-07/22/2022 02:46:44 PM ****************Home Page title test is passed*******************
-07/22/2022 02:47:08 PM ***************Verifying Login testing*******************
-07/22/2022 02:47:33 PM ***************test login page passed*******************
+07/19/2022 08:20:52 PM ***************Verifying Slider testing*******************
+07/19/2022 08:21:08 PM ***************test login page passed*******************
+07/22/2022 10:50:20 AM ***************Verifying Slider testing*******************
+07/22/2022 10:50:36 AM ***************test login page passed*******************
+07/22/2022 01:08:53 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:08:53 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:12:05 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:12:05 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:14:23 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:14:23 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:15:24 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:15:24 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:17:54 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:17:54 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:20:53 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:20:53 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:21:08 PM ****************Passed**********************
+07/22/2022 01:21:09 PM ******* DDT Login test passed **********
+07/22/2022 01:21:09 PM ******* End of Login DDT Test **********
+07/22/2022 01:21:09 PM **************** Completed  TC_LoginDDT_002 ************* 
+07/22/2022 01:24:31 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:24:31 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:24:40 PM ****************Passed**********************
+07/22/2022 01:24:46 PM **** passed ****
+07/22/2022 01:24:52 PM **** passed ****
+07/22/2022 01:24:52 PM ******* DDT Login test passed **********
+07/22/2022 01:24:52 PM ******* End of Login DDT Test **********
+07/22/2022 01:24:52 PM **************** Completed  TC_LoginDDT_002 ************* 
+07/22/2022 01:26:15 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:26:15 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:26:39 PM ************************Test_002_ddt_Login******************************
+07/22/2022 01:26:39 PM ***************Verifying Login ddt testing*******************
+07/22/2022 01:26:49 PM ****************Passed**********************
+07/22/2022 01:26:55 PM **** passed ****
+07/22/2022 01:27:01 PM **** passed ****
+07/22/2022 01:27:01 PM ******* DDT Login test passed **********
+07/22/2022 01:27:01 PM ******* End of Login DDT Test **********
+07/22/2022 01:27:01 PM **************** Completed  TC_LoginDDT_002 ************* 
+07/22/2022 08:38:40 PM ***************Verifying Slider testing*******************
+07/22/2022 08:38:58 PM ***************test login page passed*******************
+07/22/2022 08:42:22 PM ************* Test_003_AddCustomer **********
+07/22/2022 08:42:27 PM ************* Login succesful **********
+07/22/2022 08:42:27 PM ******* Starting Add Customer Test **********
+07/22/2022 09:49:11 PM ************* Test_003_AddCustomer **********
+07/22/2022 09:49:17 PM ************* Login succesful **********
+07/22/2022 09:49:17 PM ******* Starting Add Customer Test **********
+07/22/2022 10:51:46 PM ************* Test_003_AddCustomer **********
+07/22/2022 10:51:52 PM ************* Login succesful **********
+07/22/2022 10:51:52 PM ******* Starting Add Customer Test **********
+07/22/2022 10:51:56 PM ************* Providing customer info **********
+07/22/2022 10:52:09 PM ************* Saving customer info **********
+07/22/2022 10:52:09 PM ********* Add customer validation started *****************
+07/22/2022 10:52:09 PM ********* Add customer Test Passed *********
+07/22/2022 10:52:09 PM ******* Ending Add customer test **********
+07/25/2022 01:01:13 PM ************* Test_003_AddCustomer **********
+07/25/2022 01:01:17 PM ************* Login succesful **********
+07/25/2022 01:01:17 PM ******* Starting Add Customer Test **********
+07/25/2022 01:01:21 PM ************* Providing customer info **********
+07/25/2022 01:01:33 PM ************* Saving customer info **********
+07/25/2022 01:01:33 PM ********* Add customer validation started *****************
+07/25/2022 01:01:34 PM ********* Add customer Test Passed *********
+07/25/2022 01:01:34 PM ******* Ending Add customer test **********
+07/25/2022 01:50:33 PM ************* SearchCustomerByEmail_004 **********
+07/25/2022 01:50:38 PM ************* Login succesful **********
+07/25/2022 01:50:38 PM ******* Starting Search Customer By Email **********
+07/25/2022 01:50:40 PM ************* searching customer by emailID **********
+07/25/2022 01:50:46 PM ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+07/25/2022 01:51:28 PM ************* SearchCustomerByName_005 **********
+07/25/2022 01:52:49 PM ************* SearchCustomerByName_005 **********
+07/25/2022 01:52:53 PM ************* Login succesful **********
+07/25/2022 01:52:53 PM ******* Starting Search Customer By Name **********
+07/25/2022 01:52:57 PM ************* searching customer by Name **********
+07/25/2022 01:54:35 PM ************* SearchCustomerByName_005 **********
+07/25/2022 01:54:39 PM ************* Login succesful **********
+07/25/2022 01:54:39 PM ******* Starting Search Customer By Name **********
+07/25/2022 01:54:42 PM ************* searching customer by Name **********
+07/25/2022 01:56:30 PM ************* SearchCustomerByName_005 **********
+07/25/2022 01:56:34 PM ************* Login succesful **********
+07/25/2022 01:56:34 PM ******* Starting Search Customer By Name **********
+07/25/2022 01:56:39 PM ************* searching customer by Name **********
+07/25/2022 02:31:14 PM ************* SearchCustomerByName_005 **********
+07/25/2022 02:31:20 PM ************* Login succesful **********
+07/25/2022 02:31:20 PM ******* Starting Search Customer By Name **********
+07/25/2022 02:31:25 PM ************* searching customer by Name **********
+07/25/2022 02:34:21 PM ************* SearchCustomerByName_005 **********
+07/25/2022 02:34:25 PM ************* Login succesful **********
+07/25/2022 02:34:25 PM ******* Starting Search Customer By Name **********
+07/25/2022 02:34:29 PM ************* searching customer by Name **********
+07/25/2022 02:36:17 PM ************* SearchCustomerByName_005 **********
+07/25/2022 02:36:21 PM ************* Login succesful **********
+07/25/2022 02:36:21 PM ******* Starting Search Customer By Name **********
+07/25/2022 02:36:25 PM ************* searching customer by Name **********
+07/25/2022 02:38:59 PM ************* SearchCustomerByName_005 **********
+07/25/2022 02:39:03 PM ************* Login succesful **********
+07/25/2022 02:39:03 PM ******* Starting Search Customer By Name **********
+07/25/2022 02:39:07 PM ************* searching customer by Name **********
+07/25/2022 02:39:13 PM ***************  TC_SearchCustomerByName_005 Finished  *********** 
+07/25/2022 04:33:46 PM ************* Test_003_AddCustomer **********
+07/25/2022 04:33:53 PM ************* Login succesful **********
+07/25/2022 04:33:53 PM ******* Starting Add Customer Test **********
+07/25/2022 04:33:57 PM ************* Providing customer info **********
+07/25/2022 04:34:09 PM ************* Saving customer info **********
+07/25/2022 04:34:09 PM ********* Add customer validation started *****************
+07/25/2022 04:34:10 PM ********* Add customer Test Passed *********
+07/25/2022 04:34:10 PM ******* Ending Add customer test **********
+07/25/2022 04:34:13 PM ***************Verifying Slider testing*******************
+07/25/2022 04:34:28 PM ***************test login page passed*******************
+07/25/2022 05:09:03 PM ************* Test_003_AddCustomer **********
+07/25/2022 05:09:13 PM ************* Login succesful **********
+07/25/2022 05:09:13 PM ******* Starting Add Customer Test **********
+07/25/2022 05:09:19 PM ************* Providing customer info **********
+07/25/2022 05:09:32 PM ************* Saving customer info **********
+07/25/2022 05:09:32 PM ********* Add customer validation started *****************
+07/25/2022 05:09:33 PM ********* Add customer Test Passed *********
+07/25/2022 05:09:34 PM ******* Ending Add customer test **********
+07/25/2022 05:09:39 PM ***************Verifying Slider testing*******************
+07/25/2022 05:09:54 PM ***************test login page passed*******************
+07/25/2022 05:22:37 PM ************* Test_003_AddCustomer **********
+07/25/2022 05:22:43 PM ************* Login succesful **********
+07/25/2022 05:22:43 PM ******* Starting Add Customer Test **********
+07/25/2022 05:22:48 PM ************* Providing customer info **********
+07/25/2022 05:23:00 PM ************* Saving customer info **********
+07/25/2022 05:23:00 PM ********* Add customer validation started *****************
+07/25/2022 05:23:01 PM ********* Add customer Test Passed *********
+07/25/2022 05:23:01 PM ******* Ending Add customer test **********
+07/25/2022 05:23:04 PM ***************Verifying Slider testing*******************
+07/25/2022 05:23:20 PM ***************test login page passed*******************
+08/01/2022 12:38:02 PM ***************Verifying Slider testing*******************
+08/01/2022 12:38:17 PM ***************test login page passed*******************
+08/01/2022 12:38:20 PM ************************Test_002_ddt_Login******************************
+08/01/2022 12:38:20 PM ***************Verifying Login ddt testing*******************
+08/01/2022 12:38:31 PM ****************Passed**********************
+08/01/2022 12:38:37 PM **** passed ****
+08/01/2022 12:38:43 PM **** passed ****
+08/01/2022 12:38:43 PM ******* DDT Login test passed **********
+08/01/2022 12:38:43 PM ******* End of Login DDT Test **********
+08/01/2022 12:38:43 PM **************** Completed  TC_LoginDDT_002 ************* 
+08/01/2022 12:38:45 PM ************* SearchCustomerByEmail_004 **********
+08/01/2022 12:38:50 PM ************* Login succesful **********
+08/01/2022 12:38:50 PM ******* Starting Search Customer By Email **********
+08/01/2022 12:38:52 PM ************* searching customer by emailID **********
+08/01/2022 12:38:58 PM ***************  TC_SearchCustomerByEmail_004 Finished  *********** 
+08/01/2022 12:39:00 PM ************* SearchCustomerByName_005 **********
+08/01/2022 12:39:04 PM ************* Login succesful **********
+08/01/2022 12:39:04 PM ******* Starting Search Customer By Name **********
+08/01/2022 12:39:08 PM ************* searching customer by Name **********
+08/01/2022 12:39:13 PM ***************  TC_SearchCustomerByName_005 Finished  *********** 

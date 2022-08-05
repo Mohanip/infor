@@ -4,7 +4,7 @@ import logging
 class LogGen:
     @staticmethod
     def loggen():
-        logging.basicConfig(filename=r'G:\General\infor\Logs\automation.log',
+        logging.basicConfig(filename=r'C:\Users\mperiyasamy\PycharmProjects\infor\Logs\automation.log',
                             format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', force=True)
 
         logger = logging.getLogger()

@@ -8,19 +8,22 @@ from selenium.webdriver.chrome.service import Service
 options = webdriver.ChromeOptions()
 options.add_experimental_option("excludeSwitches", ["enable-logging"])
 
-s = Service(r'G:/General/infor/chromedriver_win32/chromedriver.exe')
+s = Service('C:/chromedriver_win32/chromedriver.exe')
 
 
 @pytest.fixture()
 def setup(browser):
+    # global driver
+    #global driver
     if browser == 'chrome':
         driver = webdriver.Chrome(service=s, options=options)
-        driver.back()
-        driver.forward()
+        # driver.back()
+        # driver.forward()
     elif browser == 'firefox':
         driver = webdriver.Firefox(service=s, options=options)
     # driver = webdriver.Chrome(service=s, options=options)
     return driver
+
 
 def pytest_addoption(parser):  # This will get the value from CLI/hooks
     parser.addoption("--browser")
@@ -33,10 +36,10 @@ def browser(request):  # it will return the browser value to setup method.
 
 ####################################### Pytest HTML Report ###########################
 # It is hook for adding Envir
-# def pytest_configure(config):
-#     config._metadata['Project Name'] = 'Sample project'
-#     config._metadata['Module name'] = 'Customers'
-#     config._metadata['Tester'] = 'Paven'
+def pytest_configure(config):
+    config._metadata['Project Name'] = 'Sample project'
+    config._metadata['Module name'] = 'Customers'
+    config._metadata['Tester'] = 'Mohan Periyasamy'
 
 
 # It is hook for delete/Modify Environment info to HTML Report

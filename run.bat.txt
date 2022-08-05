@@ -1,0 +1,1 @@
+pytest .\testCases\test_login.py -s -v --browser chrome --capture=tee-sys
